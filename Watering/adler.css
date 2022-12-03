@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Adler';
+	src: url('../fonts/adler.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/adler.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/adler.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/adler.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/adler.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/adler.svg#adler') format('svg'); /* Chrome < 4, Legacy iOS */
+}

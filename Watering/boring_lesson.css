@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Boring Lesson';
+	src: url('../fonts/boring_lesson.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/boring_lesson.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/boring_lesson.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/boring_lesson.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/boring_lesson.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/boring_lesson.svg#boring_lesson') format('svg'); /* Chrome < 4, Legacy iOS */
+}

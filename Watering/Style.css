@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'Boring Lesson';
+	src: url('fonts/boring_lesson.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/boring_lesson.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/boring_lesson.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/boring_lesson.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/boring_lesson.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/boring_lesson.svg#boring_lesson') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+@font-face {
+	font-family: 'Adler';
+	src: url('fonts/adler.eot'); /* IE 9 Compatibility Mode */
+	src: url('fonts/adler.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('fonts/adler.woff2') format('woff2'), /* Super Modern Browsers */
+		url('fonts/adler.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('fonts/adler.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('fonts/adler.svg#adler') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+h1{
+  color: green;
+  font-family: 'Boring Lesson',sans-serif;
+}
+ .img1{
+    float:right;
+    width: 800px;
+    margin: 0px 7px 7px 7px;
+ }
+ html{
+  font-family: 'Adler',sans-serif;
+    background-color: rgba(152, 244, 244, 0.604);  
+ }
+ table{
+   border: solid rgb(153, 249, 157);
+   background-color: rgba(101, 231, 231, 0.905);
+ }
+ .Description{
+   border: solid rgb(109, 243, 196);
+   background-color: rgba(170, 243, 243, 0.905);
+ }
+ .Readings{
+   border: solid rgb(109, 243, 196);
+   background-color: rgba(101, 231, 231, 0.905);
+ }
+ .ConnectionStatus{
+  color: rgb(0, 150, 0);
+ }
+ .Head{
+  font-size: 20px;
+ }
