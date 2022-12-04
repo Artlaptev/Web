@@ -1,5 +1,5 @@
-function sayHello(userName) {
+function greeting(userName) {
     alert(`Привет, ${userName}`);
 }
 const userName = prompt("Введите имя");
-sayHello(userName);
+greeting(userName);
